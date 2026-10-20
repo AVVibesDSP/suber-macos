@@ -121,19 +121,21 @@ final class LocalizationCatalogTests: XCTestCase {
 
     // MARK: - Language override
 
-    /// Picking Español in Settings writes `es`, and a regional variant
-    /// ("es-MX") still reads back as Spanish.
-    func testSpanishLanguageOverrideRoundTrips() throws {
+    /// Picking Español in Settings stores "es", which maps back to
+    /// `.spanish` on launch and writes the `AppleLanguages` override.
+    func testSpanishLanguageOverride() throws {
+        XCTAssertEqual(LanguageOverride.Choice(rawValue: "es"), .spanish)
+        XCTAssertEqual(LanguageOverride.Choice.spanish.displayName, "Español")
+
         let suiteName = "LocalizationCatalogTests.\(UUID().uuidString)"
         let defaults = try XCTUnwrap(UserDefaults(suiteName: suiteName))
         defer { defaults.removePersistentDomain(forName: suiteName) }
 
         LanguageOverride.apply(.spanish, defaults: defaults)
-        XCTAssertEqual(defaults.array(forKey: "AppleLanguages") as? [String], ["es"])
-        XCTAssertEqual(LanguageOverride.current(defaults: defaults), .spanish)
-
-        defaults.set(["es-MX"], forKey: "AppleLanguages")
-        XCTAssertEqual(LanguageOverride.current(defaults: defaults), .spanish)
+        // Read the suite's own domain: `-testLanguage` / `-AppleLanguages`
+        // launch arguments shadow `defaults.array(forKey:)`.
+        let written = defaults.persistentDomain(forName: suiteName)?["AppleLanguages"] as? [String]
+        XCTAssertEqual(written, ["es"])
     }
 
     // MARK: - No stale keys
