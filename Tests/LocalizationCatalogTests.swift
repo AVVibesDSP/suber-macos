@@ -6,7 +6,8 @@ import XCTest
 ///
 /// Covers:
 ///   - C1 (eng re-review): catalog JSON parses and has the expected shape
-///   - Every English key has a zh-Hans translation (no `untranslated` state)
+///   - Every English key has a zh-Hans and an es translation (no
+///     `untranslated` state)
 ///   - No stale keys (state != `stale` — catch orphaned entries from
 ///     deleted views)
 ///   - H1 (eng re-review): MailSubscriptionExtractor keyword constants are
@@ -59,12 +60,26 @@ final class LocalizationCatalogTests: XCTestCase {
                              "v1.6 introduces ~40+ strings; got \(strings.count)")
     }
 
-    // MARK: - zh-Hans completeness
+    // MARK: - Locale completeness
 
     /// Every English key must have a zh-Hans translation in `state: translated`.
     /// Design review D14 + eng re-review M2: bilingual launch means no
     /// half-translated fallback-to-English surprises.
     func testAllKeysHaveChineseTranslation() throws {
+        try assertAllKeysTranslated(into: "zh-Hans")
+    }
+
+    /// Same contract for Spanish (es): every key translated, no fallback to
+    /// English mid-screen.
+    func testAllKeysHaveSpanishTranslation() throws {
+        try assertAllKeysTranslated(into: "es")
+    }
+
+    private func assertAllKeysTranslated(
+        into locale: String,
+        file: StaticString = #filePath,
+        line: UInt = #line
+    ) throws {
         let strings = try loadStrings()
         var missing: [String] = []
         var notTranslated: [String] = []
@@ -74,13 +89,13 @@ final class LocalizationCatalogTests: XCTestCase {
                 missing.append("\(key): no localizations block")
                 continue
             }
-            guard let zhHans = localizations["zh-Hans"] as? [String: Any] else {
+            guard let localized = localizations[locale] as? [String: Any] else {
                 missing.append(key)
                 continue
             }
-            guard let stringUnit = zhHans["stringUnit"] as? [String: Any],
+            guard let stringUnit = localized["stringUnit"] as? [String: Any],
                   let state = stringUnit["state"] as? String else {
-                missing.append("\(key): zh-Hans block malformed")
+                missing.append("\(key): \(locale) block malformed")
                 continue
             }
             if state != "translated" {
@@ -89,11 +104,30 @@ final class LocalizationCatalogTests: XCTestCase {
         }
 
         XCTAssertTrue(missing.isEmpty,
-                      "Missing zh-Hans translation for \(missing.count) keys:\n" +
-                      missing.prefix(10).joined(separator: "\n"))
+                      "Missing \(locale) translation for \(missing.count) keys:\n" +
+                      missing.prefix(10).joined(separator: "\n"),
+                      file: file, line: line)
         XCTAssertTrue(notTranslated.isEmpty,
-                      "\(notTranslated.count) zh-Hans entries not in `translated` state:\n" +
-                      notTranslated.prefix(10).joined(separator: "\n"))
+                      "\(notTranslated.count) \(locale) entries not in `translated` state:\n" +
+                      notTranslated.prefix(10).joined(separator: "\n"),
+                      file: file, line: line)
+    }
+
+    // MARK: - Language override
+
+    /// Picking Español in Settings writes `es`, and a regional variant
+    /// ("es-MX") still reads back as Spanish.
+    func testSpanishLanguageOverrideRoundTrips() throws {
+        let suiteName = "LocalizationCatalogTests.\(UUID().uuidString)"
+        let defaults = try XCTUnwrap(UserDefaults(suiteName: suiteName))
+        defer { defaults.removePersistentDomain(forName: suiteName) }
+
+        LanguageOverride.apply(.spanish, defaults: defaults)
+        XCTAssertEqual(defaults.array(forKey: "AppleLanguages") as? [String], ["es"])
+        XCTAssertEqual(LanguageOverride.current(defaults: defaults), .spanish)
+
+        defaults.set(["es-MX"], forKey: "AppleLanguages")
+        XCTAssertEqual(LanguageOverride.current(defaults: defaults), .spanish)
     }
 
     // MARK: - No stale keys

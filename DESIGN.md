@@ -369,7 +369,7 @@ Pass 1 cons: when unsure, apply subtraction — if deleting 30% of a surface's t
 
 ### 14.1 Source of truth
 
-All user-facing strings live in `Sources/Resources/Localizable.xcstrings` (Xcode 15+ String Catalog format). v1.6 ships **English + Simplified Chinese (zh-Hans)**.
+All user-facing strings live in `Sources/Resources/Localizable.xcstrings` (Xcode 15+ String Catalog format). Shipped locales: **English, Simplified Chinese (zh-Hans), Spanish (es)**.
 
 The catalog is a single JSON file that Xcode compiles per-locale at build time. Translators can edit it directly in Xcode's catalog editor (side-by-side languages, machine-translation-draft button, visual completeness indicator).
 
@@ -407,7 +407,18 @@ Matching heuristics used by `MailSubscriptionExtractor` / `MailScanKeywords`. Tr
 - Currency symbols: keep the user's display currency. Don't "convert" `$` to `¥` in a translation — the actual number is the user's data.
 - Use `%@` positional interpolation for names, `%lld` for integer counts, `%1$@` / `%2$@` when reordering.
 
-### 14.5 Pseudo-locale testing
+### 14.5 es translation rules
+
+- Address the user as `tú` (informal), not `usted`, matching the zh-Hans `你` choice. Neutral Spanish: no `vosotros`, no regional slang.
+- Follow Apple's Spanish (es) macOS terminology: `Ajustes`, `Ajustes del Sistema → Privacidad y seguridad → Automatización`, `llavero`, `Aceptar`, `Añadir`, `este Mac`. On a Mac, say `haz clic`, not `toca`.
+- Keep `Suber`, `Autopilot`, `Apple Mail` / `Mail.app`, domain names and keyboard shortcuts untranslated.
+- Keep CSV column names that the parser matches literally (`Date / Description / Amount`) in English.
+- Subscription statuses are feminine (they agree with `suscripción`): `Activa`, `Cancelada`, `Todas`.
+- When one key is used for both 1 and N items or services, pick wording that needs no agreement (`Subida de precio: %@`, `cargos duplicados: %lld`) rather than `(s)` suffixes.
+- Lists drop the Oxford comma: `%@, %@ y %@`.
+- Avoid em dashes (§13). Use a colon, comma or period instead.
+
+### 14.6 Pseudo-locale testing
 
 Before shipping, run Apple's accented pseudolanguage (`en_XA`) to catch layout overflow:
 
@@ -424,13 +435,14 @@ The script launches Suber with `AppleLanguages=(en_XA)` set. Every string expand
 
 Fix overflow by either (a) shortening source copy, or (b) adding `.fixedSize(horizontal: false, vertical: true)` + `.lineLimit(nil)` so labels wrap.
 
-### 14.6 Adding a locale in v1.7+
+### 14.7 Adding a locale in v1.7+
 
-1. Add locale code to `CFBundleLocalizations` in `Sources/Info.plist`
-2. Open `Localizable.xcstrings` in Xcode; click "+" in the language column
-3. Translate every key (Xcode's completeness indicator stays red until 100%)
-4. Run `LocalizationCatalogTests` — it'll fail until every key has a translation in the new locale
-5. Pseudo-locale-test and manual QA before release
+1. Add locale code to `CFBundleLocalizations` in `Sources/Info.plist` and to `knownRegions` in the Xcode project
+2. Add a `LanguageOverride.Choice` case (display name in the target language) so it shows up in Settings → Language
+3. Open `Localizable.xcstrings` in Xcode; click "+" in the language column
+4. Translate every key (Xcode's completeness indicator stays red until 100%)
+5. Add a one-line completeness test to `LocalizationCatalogTests` (`try assertAllKeysTranslated(into: "<code>")`) and run the suite; it fails until every key has a translation in the new locale
+6. Pseudo-locale-test and manual QA before release
 
 ---
 
