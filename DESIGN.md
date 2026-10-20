@@ -369,7 +369,7 @@ Pass 1 cons: when unsure, apply subtraction — if deleting 30% of a surface's t
 
 ### 14.1 Source of truth
 
-All user-facing strings live in `Sources/Resources/Localizable.xcstrings` (Xcode 15+ String Catalog format). Shipped locales: **English, Simplified Chinese (zh-Hans), Spanish (es)**.
+All user-facing strings live in `Sources/Resources/Localizable.xcstrings` (Xcode 15+ String Catalog format). Shipped locales: **English, Simplified Chinese (zh-Hans), Spanish (es, es-419)**.
 
 The catalog is a single JSON file that Xcode compiles per-locale at build time. Translators can edit it directly in Xcode's catalog editor (side-by-side languages, machine-translation-draft button, visual completeness indicator).
 
@@ -417,6 +417,8 @@ Matching heuristics used by `MailSubscriptionExtractor` / `MailScanKeywords`. Tr
 - When one key is used for both 1 and N items or services, pick wording that needs no agreement (`Subida de precio: %@`, `cargos duplicados: %lld`) rather than `(s)` suffixes.
 - Lists drop the Oxford comma: `%@, %@ y %@`.
 - Avoid em dashes (§13). Use a colon, comma or period instead.
+- **es vs es-419**: `es` follows Apple's Spain terminology, `es-419` (Latin America; macOS resolves es-MX, es-AR, es-US… to it) follows Apple's Latin American one. Keep them identical except where macOS itself differs: `Ajustes` → `Configuración`, `Ajustes del Sistema` → `Configuración del Sistema`, `Añadir` → `Agregar`, `pulsa` → `presiona`, and `Mac` is feminine (`esta Mac`, `todas tus Mac`). When adding a key, translate `es` first, then copy it to `es-419` and apply only those swaps.
+- The Settings → Language picker has a single "Español" entry that forces `es`; "System default" picks `es-419` automatically on Latin American systems.
 
 ### 14.6 Pseudo-locale testing
 

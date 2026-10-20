@@ -6,7 +6,7 @@ All notable changes to Suber. Format follows [Keep a Changelog](https://keepacha
 
 ### Added
 
-- **Spanish (es) localization**: all 417 catalog keys translated, `es` added to `CFBundleLocalizations` / `knownRegions`, and "Español" added to Settings → Language. `LocalizationCatalogTests` now requires full `es` coverage alongside `zh-Hans`, and DESIGN.md §14.5 records the Spanish style rules.
+- **Spanish localization (es + es-419)**: all 417 catalog keys translated into Spanish, plus a Latin American variant (`es-419`) that differs only where macOS terminology does (`Configuración`, `Agregar`, `esta Mac`). Both are registered in `CFBundleLocalizations` / `knownRegions`, and "Español" is added to Settings → Language. `LocalizationCatalogTests` now requires full `es` and `es-419` coverage alongside `zh-Hans`, and DESIGN.md §14.5 records the Spanish style rules.
 
 ## [1.10.0] — 2026-07-10 — 第二轮独立审计：删除墓碑、IMAP 崩溃面、本地化补全
 

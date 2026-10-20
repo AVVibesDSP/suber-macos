@@ -6,7 +6,7 @@ import XCTest
 ///
 /// Covers:
 ///   - C1 (eng re-review): catalog JSON parses and has the expected shape
-///   - Every English key has a zh-Hans and an es translation (no
+///   - Every English key has a zh-Hans, es and es-419 translation (no
 ///     `untranslated` state)
 ///   - No stale keys (state != `stale` — catch orphaned entries from
 ///     deleted views)
@@ -73,6 +73,12 @@ final class LocalizationCatalogTests: XCTestCase {
     /// English mid-screen.
     func testAllKeysHaveSpanishTranslation() throws {
         try assertAllKeysTranslated(into: "es")
+    }
+
+    /// Latin American Spanish (es-419). macOS resolves es-MX, es-AR, es-US
+    /// etc. to this variant, so it needs the same full coverage.
+    func testAllKeysHaveLatinAmericanSpanishTranslation() throws {
+        try assertAllKeysTranslated(into: "es-419")
     }
 
     private func assertAllKeysTranslated(

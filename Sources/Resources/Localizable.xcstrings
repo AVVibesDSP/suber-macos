@@ -11,6 +11,12 @@
             "value" : "Deja que Suber vigile Apple Mail en busca de recibos de cobro"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deja que Suber vigile Apple Mail en busca de recibos de cobro"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23,6 +29,12 @@
       "comment" : "Consent modal subtitle.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Así nunca se te pasará una subida de precio, una suscripción nueva ni un cargo duplicado."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Así nunca se te pasará una subida de precio, una suscripción nueva ni un cargo duplicado."
@@ -45,6 +57,12 @@
             "value" : "Solo lee recibos"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solo lee recibos"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -57,6 +75,12 @@
       "comment" : "Consent modal trust bullet 1 body.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Renovaciones, facturas y fines de prueba. Suber ignora todo lo demás."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Renovaciones, facturas y fines de prueba. Suber ignora todo lo demás."
@@ -79,6 +103,12 @@
             "value" : "Todo se queda en este Mac"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todo se queda en esta Mac"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -91,6 +121,12 @@
       "comment" : "Consent modal trust bullet 2 body.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solo se guardan importes y fechas. Nada sale de tu equipo."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Solo se guardan importes y fechas. Nada sale de tu equipo."
@@ -113,6 +149,12 @@
             "value" : "Desactívalo cuando quieras"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desactívalo cuando quieras"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -130,6 +172,12 @@
             "value" : "En Ajustes → Autopilot. O revoca el permiso en Ajustes del Sistema → Privacidad y seguridad → Automatización."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En Configuración → Autopilot. O revoca el permiso en Configuración del Sistema → Privacidad y seguridad → Automatización."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -142,6 +190,12 @@
       "comment" : "Consent modal footnote priming the TCC prompt.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A continuación, macOS te pedirá que permitas a Suber controlar Mail. Haz clic en Aceptar en ese cuadro de diálogo para continuar."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "A continuación, macOS te pedirá que permitas a Suber controlar Mail. Haz clic en Aceptar en ese cuadro de diálogo para continuar."
@@ -164,6 +218,12 @@
             "value" : "Conectar Apple Mail"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectar Apple Mail"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176,6 +236,12 @@
       "comment" : "Generic cancel button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelar"
@@ -198,6 +264,12 @@
             "value" : "Ahora no"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ahora no"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -210,6 +282,12 @@
       "comment" : "Cancel confirmation sheet primary button (D10). Button label matches menu action.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir página de cancelación"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abrir página de cancelación"
@@ -232,6 +310,12 @@
             "value" : "Abrir página de cancelación…"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir página de cancelación…"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -244,6 +328,12 @@
       "comment" : "DayDetail button when sub already in pendingCancellation (D5 idempotent re-open).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir de nuevo la página de cancelación"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abrir de nuevo la página de cancelación"
@@ -266,6 +356,12 @@
             "value" : "Buscar página de cancelación…"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar página de cancelación…"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -278,6 +374,12 @@
       "comment" : "CancelConfirmationSheet tertiary link and A4 manual-confirm nudge.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marcar como cancelada"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Marcar como cancelada"
@@ -300,6 +402,12 @@
             "value" : "Autopilot"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autopilot"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -312,6 +420,12 @@
       "comment" : "Settings Autopilot group 1 header.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Mail"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Apple Mail"
@@ -334,6 +448,12 @@
             "value" : "Otras cuentas de correo"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otras cuentas de correo"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -349,6 +469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Añadir cuenta IMAP…"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar cuenta IMAP…"
           }
         },
         "zh-Hans" : {
@@ -368,6 +494,12 @@
             "value" : "Conecta Gmail, Outlook, Yahoo, Fastmail o cualquier servidor IMAP directamente. Es útil si la cuenta no está en Mail.app de macOS o si no usas Mail.app. La contraseña de aplicación se guarda en el llavero de este Mac."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conecta Gmail, Outlook, Yahoo, Fastmail o cualquier servidor IMAP directamente. Es útil si la cuenta no está en Mail.app de macOS o si no usas Mail.app. La contraseña de aplicación se guarda en el llavero de esta Mac."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -385,6 +517,12 @@
             "value" : "Añadir cuenta IMAP"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar cuenta IMAP"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -397,6 +535,12 @@
       "comment" : "v1.7 IMAP edit-account sheet title.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar cuenta IMAP"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Editar cuenta IMAP"
@@ -419,6 +563,12 @@
             "value" : "Suber se conecta directamente por IMAP. Es útil si no usas Mail.app de macOS o si tienes una cuenta que no está en Mail."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suber se conecta directamente por IMAP. Es útil si no usas Mail.app de macOS o si tienes una cuenta que no está en Mail."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -431,6 +581,12 @@
       "comment" : "v1.7 IMAP add-account sheet field label.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proveedor"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Proveedor"
@@ -453,6 +609,12 @@
             "value" : "Correo"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Correo"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -465,6 +627,12 @@
       "comment" : "v1.7 IMAP add-account sheet field label.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contraseña de aplicación"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Contraseña de aplicación"
@@ -487,6 +655,12 @@
             "value" : "Contraseña de aplicación (no la de tu cuenta)"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contraseña de aplicación (no la de tu cuenta)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -499,6 +673,12 @@
       "comment" : "v1.7 IMAP add-account sheet field label (Generic provider only).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Servidor IMAP"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Servidor IMAP"
@@ -521,6 +701,12 @@
             "value" : "Puerto"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puerto"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -533,6 +719,12 @@
       "comment" : "v1.7 IMAP add-account sheet button — runs ping() against entered config.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Probar conexión"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Probar conexión"
@@ -555,6 +747,12 @@
             "value" : "Probando…"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Probando…"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -572,6 +770,12 @@
             "value" : "Añadir cuenta"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar cuenta"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -584,6 +788,12 @@
       "comment" : "v1.7 IMAP edit-account sheet primary button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardar"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Guardar"
@@ -606,6 +816,12 @@
             "value" : "Error de autenticación. Revisa el correo y la contraseña de aplicación."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error de autenticación. Revisa el correo y la contraseña de aplicación."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -618,6 +834,12 @@
       "comment" : "v1.7 IMAP test-connection failure: server unreachable.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se agotó el tiempo de conexión. Revisa el servidor y el puerto."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se agotó el tiempo de conexión. Revisa el servidor y el puerto."
@@ -640,6 +862,12 @@
             "value" : "Editar"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -652,6 +880,12 @@
       "comment" : "v1.7 IMAP account row — trash button tooltip.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eliminar la cuenta y borrar la contraseña del llavero"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Eliminar la cuenta y borrar la contraseña del llavero"
@@ -674,6 +908,12 @@
             "value" : "Avisarme de"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avisarme de"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -686,6 +926,12 @@
       "comment" : "Master toggle in Settings → Autopilot.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vigilar Apple Mail"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vigilar Apple Mail"
@@ -708,6 +954,12 @@
             "value" : "Lee los recibos de cobro (renovaciones, facturas, pruebas) una vez al día. Solo se guardan importes y fechas."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lee los recibos de cobro (renovaciones, facturas, pruebas) una vez al día. Solo se guardan importes y fechas."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -720,6 +972,12 @@
       "comment" : "Settings Autopilot manual scan button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escanear ahora"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escanear ahora"
@@ -742,6 +1000,12 @@
             "value" : "Cambios de precio"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambios de precio"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -754,6 +1018,12 @@
       "comment" : "Settings Autopilot price-change toggle sublabel.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ej.: Netflix subió de $15.99 a $22.99"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ej.: Netflix subió de $15.99 a $22.99"
@@ -776,6 +1046,12 @@
             "value" : "Suscripciones nuevas"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suscripciones nuevas"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -788,6 +1064,12 @@
       "comment" : "Settings Autopilot new-subs toggle sublabel.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuando un recibo coincide con un servicio que aún no registras"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cuando un recibo coincide con un servicio que aún no registras"
@@ -810,6 +1092,12 @@
             "value" : "Cargos duplicados"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cargos duplicados"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -822,6 +1110,12 @@
       "comment" : "Settings Autopilot duplicates toggle sublabel (design review D6 default-off rationale).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuando el mismo servicio cobra dos veces en un día. Puede generar avisos de más, así que déjalo desactivado salvo que hayas visto duplicados."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cuando el mismo servicio cobra dos veces en un día. Puede generar avisos de más, así que déjalo desactivado salvo que hayas visto duplicados."
@@ -844,6 +1138,12 @@
             "value" : "Suber no puede acceder a Mail."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suber no puede acceder a Mail."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -859,6 +1159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abre Ajustes del Sistema → Privacidad y seguridad → Automatización y permite que Suber controle Mail."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abre Configuración del Sistema → Privacidad y seguridad → Automatización y permite que Suber controle Mail."
           }
         },
         "zh-Hans" : {
@@ -878,6 +1184,12 @@
             "value" : "Abrir Ajustes del Sistema →"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir Configuración del Sistema →"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -890,6 +1202,12 @@
       "comment" : "Settings Autopilot last-scan state when enabled but no scan has run.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aún no se ha escaneado"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aún no se ha escaneado"
@@ -912,6 +1230,12 @@
             "value" : "Desactivado"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desactivado"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -924,6 +1248,12 @@
       "comment" : "Settings Autopilot last-scan state during TCC prompt.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esperando permiso…"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Esperando permiso…"
@@ -946,6 +1276,12 @@
             "value" : "Revisar"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revisar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -958,6 +1294,12 @@
       "comment" : "FirstCatchBanner title (D8 once-forever).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suber detectó tu primer cambio."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suber detectó tu primer cambio."
@@ -980,6 +1322,12 @@
             "value" : "Haz clic en una fila para revisarlo."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haz clic en una fila para revisarlo."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -992,6 +1340,12 @@
       "comment" : "Accessibility label for the ✕ button on all Autopilot banners.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerrar aviso"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cerrar aviso"
@@ -1014,6 +1368,12 @@
             "value" : "Autopilot está vigilando."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autopilot está vigilando."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1026,6 +1386,12 @@
       "comment" : "Changes Window first-run empty-state body.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suber está escaneando Apple Mail en busca de recibos de cobro. Aquí verás los cambios de precio, las suscripciones nuevas y los cargos duplicados a medida que se detecten."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suber está escaneando Apple Mail en busca de recibos de cobro. Aquí verás los cambios de precio, las suscripciones nuevas y los cargos duplicados a medida que se detecten."
@@ -1048,6 +1414,12 @@
             "value" : "Estás al día."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estás al día."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1060,6 +1432,12 @@
       "comment" : "Changes Window returning-user empty-state body.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El último escaneo no encontró nada nuevo. Suber volverá a revisar mañana."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "El último escaneo no encontró nada nuevo. Suber volverá a revisar mañana."
@@ -1082,6 +1460,12 @@
             "value" : "No hay cambios por revisar"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay cambios por revisar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1094,6 +1478,12 @@
       "comment" : "ChangesListView filter toggle.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar todo el historial"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mostrar todo el historial"
@@ -1116,6 +1506,12 @@
             "value" : "Listo"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Listo"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1128,6 +1524,12 @@
       "comment" : "ChangeRowView dismiss action.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ignorar"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ignorar"
@@ -1150,6 +1552,12 @@
             "value" : "Aceptar"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aceptar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1167,6 +1575,12 @@
             "value" : "Añadir suscripción"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar suscripción"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1179,6 +1593,12 @@
       "comment" : "ChangeRowView duplicate row action.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descartar"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Descartar"
@@ -1201,6 +1621,12 @@
             "value" : "Mantener"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mantener"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1213,6 +1639,12 @@
       "comment" : "ChangeRowView cancellationFailed primary action.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reintentar"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reintentar"
@@ -1235,6 +1667,12 @@
             "value" : "Marcar como cancelada manualmente"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marcar como cancelada manualmente"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1247,6 +1685,12 @@
       "comment" : "ChangeRowView duplicate row title.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posible cargo duplicado"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Posible cargo duplicado"
@@ -1269,6 +1713,12 @@
             "value" : "Cancelando"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelando"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1281,6 +1731,12 @@
       "comment" : "PendingCancellationIndicator detail-tier title.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelación pendiente"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelación pendiente"
@@ -1303,6 +1759,12 @@
             "value" : "Suber está atento al próximo cobro."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suber está atento al próximo cobro."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1315,6 +1777,12 @@
       "comment" : "Consent modal developer attribution. %@ = developer name (never translated).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hecho por %@ · github.com/createpjf/suber-macos"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hecho por %@ · github.com/createpjf/suber-macos"
@@ -1337,6 +1805,12 @@
             "value" : "Abrir la página de cancelación de %@"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir la página de cancelación de %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1349,6 +1823,12 @@
       "comment" : "CancelConfirmationSheet body with data source. %@ = service name.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suber abrirá la página de cancelación de %@ en tu navegador. La cancelación la haces tú allí. Suber lo comprobará el mes que viene y te confirmará cuando dejen de cobrarte."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suber abrirá la página de cancelación de %@ en tu navegador. La cancelación la haces tú allí. Suber lo comprobará el mes que viene y te confirmará cuando dejen de cobrarte."
@@ -1371,6 +1851,12 @@
             "value" : "Suber abrirá la página de cancelación de %@ en tu navegador. La cancelación la haces tú allí. Suber no puede verificarlo automáticamente, así que cuando termines haz clic en “Marcar como cancelada” aquí abajo."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suber abrirá la página de cancelación de %@ en tu navegador. La cancelación la haces tú allí. Suber no puede verificarlo automáticamente, así que cuando termines haz clic en “Marcar como cancelada” aquí abajo."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1383,6 +1869,12 @@
       "comment" : "CancelConfirmationSheet tertiary prompt. %@ = service name.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Ya cancelaste en %@?"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Ya cancelaste en %@?"
@@ -1405,6 +1897,12 @@
             "value" : "¿Marcar %@ como cancelada?"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Marcar %@ como cancelada?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1417,6 +1915,12 @@
       "comment" : "CancelConfirmationSheet manual-mark alert body. %@ = service name.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suber dejará de seguir los cobros de %@. Si en realidad no cancelaste, verás el próximo cobro en tu tarjeta y podrás deshacer esto."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suber dejará de seguir los cobros de %@. Si en realidad no cancelaste, verás el próximo cobro en tu tarjeta y podrás deshacer esto."
@@ -1439,6 +1943,12 @@
             "value" : "Idioma"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idioma"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1451,6 +1961,12 @@
       "comment" : "Language picker label.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idioma de la app"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Idioma de la app"
@@ -1473,6 +1989,12 @@
             "value" : "Idioma del sistema"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idioma del sistema"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1485,6 +2007,12 @@
       "comment" : "Language picker helper text.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suber usa el idioma de macOS de forma predeterminada. Aquí puedes forzar inglés, español o chino simplificado."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suber usa el idioma de macOS de forma predeterminada. Aquí puedes forzar inglés, español o chino simplificado."
@@ -1507,6 +2035,12 @@
             "value" : "¿Reiniciar Suber para cambiar el idioma?"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Reiniciar Suber para cambiar el idioma?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1519,6 +2053,12 @@
       "comment" : "Language change confirm-restart alert body.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El texto que ya está en pantalla no cambiará hasta que reinicies Suber. El nuevo idioma se aplicará en toda la app la próxima vez que se abra."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "El texto que ya está en pantalla no cambiará hasta que reinicies Suber. El nuevo idioma se aplicará en toda la app la próxima vez que se abra."
@@ -1541,6 +2081,12 @@
             "value" : "Reiniciar ahora"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reiniciar ahora"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1553,6 +2099,12 @@
       "comment" : "Language change confirm-restart alert dismiss button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más tarde"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Más tarde"
@@ -1575,6 +2127,12 @@
             "value" : "Busca el cuadro de diálogo de permisos de macOS y haz clic en Aceptar."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Busca el cuadro de diálogo de permisos de macOS y haz clic en Aceptar."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1587,6 +2145,12 @@
       "comment" : "Watchdog state error after probe times out (TCC prompt sat unattended too long, or Mail not responding).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se agotó el tiempo de conexión. Asegúrate de que Mail.app esté abierto e inténtalo de nuevo."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se agotó el tiempo de conexión. Asegúrate de que Mail.app esté abierto e inténtalo de nuevo."
@@ -1609,6 +2173,12 @@
             "value" : "Mail no se está ejecutando. Abre Mail.app una vez y luego haz clic en “Escanear ahora”."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mail no se está ejecutando. Abre Mail.app una vez y luego haz clic en “Escanear ahora”."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1621,6 +2191,12 @@
       "comment" : "Menu-bar icon VoiceOver label when unreadChangeCount == 0.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suber: ningún cambio sin leer"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suber: ningún cambio sin leer"
@@ -1643,6 +2219,12 @@
             "value" : "Suber: 1 cambio sin leer"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suber: 1 cambio sin leer"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1655,6 +2237,12 @@
       "comment" : "Menu-bar icon VoiceOver label — plural. %lld is the unread count.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suber: %lld cambios sin leer"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suber: %lld cambios sin leer"
@@ -1677,6 +2265,12 @@
             "value" : "Qué lee Suber y cómo revocar el acceso →"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qué lee Suber y cómo revocar el acceso →"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1689,6 +2283,12 @@
       "comment" : "TopBarView icon-only toggle (VoiceOver + tooltip).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar calendario"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mostrar calendario"
@@ -1711,6 +2311,12 @@
             "value" : "Mostrar lista"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar lista"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1723,6 +2329,12 @@
       "comment" : "TopBarView dashboard button (VoiceOver + tooltip).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Panel"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Panel"
@@ -1745,6 +2357,12 @@
             "value" : "Ajustes"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1757,6 +2375,12 @@
       "comment" : "FilterBarView status chip.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todas"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Todas"
@@ -1779,6 +2403,12 @@
             "value" : "Activa"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activa"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1791,6 +2421,12 @@
       "comment" : "Status name — filter chip, Dashboard badge, form Status menu.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En pausa"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "En pausa"
@@ -1813,6 +2449,12 @@
             "value" : "Prueba"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prueba"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1825,6 +2467,12 @@
       "comment" : "Status name — filter chip, form Status menu.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelada"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelada"
@@ -1847,6 +2495,12 @@
             "value" : "Sincronización con iCloud"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sincronización con iCloud"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1859,6 +2513,12 @@
       "comment" : "Settings section title + form field label.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moneda"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Moneda"
@@ -1881,6 +2541,12 @@
             "value" : "Notificaciones"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notificaciones"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1893,6 +2559,12 @@
       "comment" : "Settings section title.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "General"
@@ -1915,6 +2587,12 @@
             "value" : "Datos"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datos"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1927,6 +2605,12 @@
       "comment" : "Settings section title (Sparkle).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizaciones"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Actualizaciones"
@@ -1949,6 +2633,12 @@
             "value" : "Moneda principal"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moneda principal"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1961,6 +2651,12 @@
       "comment" : "Settings currency row — %@ is a relative timestamp (U-11).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipos de cambio actualizados %@"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tipos de cambio actualizados %@"
@@ -1983,6 +2679,12 @@
             "value" : "Usando tipos de cambio aproximados integrados. Los totales en varias monedas pueden no ser exactos."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usando tipos de cambio aproximados integrados. Los totales en varias monedas pueden no ser exactos."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1995,6 +2697,12 @@
       "comment" : "Settings notifications toggle.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activar notificaciones"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Activar notificaciones"
@@ -2017,6 +2725,12 @@
             "value" : "Avisar antes"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avisar antes"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2029,6 +2743,12 @@
       "comment" : "Compact day chip: reminder-day buttons + pending-cancel tile badge. %lld = days.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld d"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld d"
@@ -2051,6 +2771,12 @@
             "value" : "Abrir al iniciar sesión"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir al iniciar sesión"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2063,6 +2789,12 @@
       "comment" : "Settings iCloud toggle row label.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sincronización con iCloud"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sincronización con iCloud"
@@ -2085,6 +2817,12 @@
             "value" : "Activada: tus suscripciones se sincronizan con tu cuenta de iCloud."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activada: tus suscripciones se sincronizan con tu cuenta de iCloud."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2102,6 +2840,12 @@
             "value" : "Desactivada: tus suscripciones solo se guardan en este Mac."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desactivada: tus suscripciones solo se guardan en esta Mac."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2114,6 +2858,12 @@
       "comment" : "Settings data action button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exportar JSON"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exportar JSON"
@@ -2136,6 +2886,12 @@
             "value" : "Importar JSON"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Importar JSON"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2148,6 +2904,12 @@
       "comment" : "Settings data action button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Importar desde extracto bancario…"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Importar desde extracto bancario…"
@@ -2170,6 +2932,12 @@
             "value" : "Restaurar desde copia de seguridad…"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurar desde copia de seguridad…"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2182,6 +2950,12 @@
       "comment" : "Settings destructive action.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Borrar todos los datos"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Borrar todos los datos"
@@ -2204,6 +2978,12 @@
             "value" : "¿Borrar todos los datos?"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Borrar todos los datos?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2221,6 +3001,12 @@
             "value" : "Se eliminarán de forma permanente todas las suscripciones y se restablecerán los ajustes."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se eliminarán de forma permanente todas las suscripciones y se restablecerá la configuración."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2233,6 +3019,12 @@
       "comment" : "Clear-all confirm button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Borrar"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Borrar"
@@ -2255,6 +3047,12 @@
             "value" : "Error al importar"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al importar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2267,6 +3065,12 @@
       "comment" : "Generic OK button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aceptar"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aceptar"
@@ -2289,6 +3093,12 @@
             "value" : "Error desconocido"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error desconocido"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2301,6 +3111,12 @@
       "comment" : "Export write failure (C-37). %@ = system error description.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al exportar: %@"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Error al exportar: %@"
@@ -2323,6 +3139,12 @@
             "value" : "¿Reemplazar todas las suscripciones?"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Reemplazar todas las suscripciones?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2335,6 +3157,12 @@
       "comment" : "JSON import confirm destructive button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reemplazar"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reemplazar"
@@ -2357,6 +3185,12 @@
             "value" : "Se reemplazarán tus %lld suscripciones actuales por las %lld del archivo. Antes se hará automáticamente una copia de seguridad de tus datos actuales."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se reemplazarán tus %lld suscripciones actuales por las %lld del archivo. Antes se hará automáticamente una copia de seguridad de tus datos actuales."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2369,6 +3203,12 @@
       "comment" : "Settings footer heading.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acerca de"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Acerca de"
@@ -2391,6 +3231,12 @@
             "value" : "Suber %@"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suber %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2403,6 +3249,12 @@
       "comment" : "GitHub link button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sitio web"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sitio web"
@@ -2425,6 +3277,12 @@
             "value" : "Salir de Suber"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salir de Suber"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2437,6 +3295,12 @@
       "comment" : "Sparkle update trigger button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar actualizaciones"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Buscar actualizaciones"
@@ -2459,6 +3323,12 @@
             "value" : "Buscar actualizaciones automáticamente"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar actualizaciones automáticamente"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2471,6 +3341,12 @@
       "comment" : "Sparkle last-checked line. %@ = formatted date.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Última comprobación: %@"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Última comprobación: %@"
@@ -2493,6 +3369,12 @@
             "value" : "Escaneando…"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escaneando…"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2505,6 +3387,12 @@
       "comment" : "Autopilot last-scan line with progress. %lld = messages seen.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escaneando… %lld mensajes"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escaneando… %lld mensajes"
@@ -2527,6 +3415,12 @@
             "value" : "Último escaneo: %@"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Último escaneo: %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2539,6 +3433,12 @@
       "comment" : "Autopilot last-scan line, singular.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Último escaneo: %@ · 1 cambio encontrado"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Último escaneo: %@ · 1 cambio encontrado"
@@ -2561,6 +3461,12 @@
             "value" : "Último escaneo: %@ · %lld cambios encontrados"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Último escaneo: %@ · %lld cambios encontrados"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2573,6 +3479,12 @@
       "comment" : "IMAP account remove confirm title (U-01). %@ = account display name.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Eliminar %@?"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Eliminar %@?"
@@ -2595,6 +3507,12 @@
             "value" : "Eliminar cuenta"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eliminar cuenta"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2607,6 +3525,12 @@
       "comment" : "IMAP account remove confirm body (U-01).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La contraseña de aplicación se borrará de tu llavero. Los proveedores no vuelven a mostrar las contraseñas de aplicación, así que tendrás que generar una nueva para volver a conectarte."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "La contraseña de aplicación se borrará de tu llavero. Los proveedores no vuelven a mostrar las contraseñas de aplicación, así que tendrás que generar una nueva para volver a conectarte."
@@ -2629,6 +3553,12 @@
             "value" : "Editar suscripción"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar suscripción"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2641,6 +3571,12 @@
       "comment" : "Form header icon button (VoiceOver + tooltip).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analizar el texto de un correo de cobro"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Analizar el texto de un correo de cobro"
@@ -2663,6 +3599,12 @@
             "value" : "Escanear imagen para autocompletar"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escanear imagen para autocompletar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2675,6 +3617,12 @@
       "comment" : "Generic close button (VoiceOver + tooltip).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerrar"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cerrar"
@@ -2697,6 +3645,12 @@
             "value" : "Servicio"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Servicio"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2709,6 +3663,12 @@
       "comment" : "Service name placeholder.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Netflix, Spotify…"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Netflix, Spotify…"
@@ -2731,6 +3691,12 @@
             "value" : "Dominio"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dominio"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2743,6 +3709,12 @@
       "comment" : "Form field label.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Precio"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Precio"
@@ -2765,6 +3737,12 @@
             "value" : "Bajar precio"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bajar precio"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2777,6 +3755,12 @@
       "comment" : "Price stepper button (VoiceOver + tooltip).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subir precio"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Subir precio"
@@ -2799,6 +3783,12 @@
             "value" : "Frecuencia"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frecuencia"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2811,6 +3801,12 @@
       "comment" : "Form date field label.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fecha de inicio"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fecha de inicio"
@@ -2833,6 +3829,12 @@
             "value" : "Fin de la prueba"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fin de la prueba"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2845,6 +3847,12 @@
       "comment" : "Form billing-day menu label.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Día de cobro"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Día de cobro"
@@ -2867,6 +3875,12 @@
             "value" : "Categoría"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Categoría"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2879,6 +3893,12 @@
       "comment" : "Form status menu label.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estado"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Estado"
@@ -2901,6 +3921,12 @@
             "value" : "Notas"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notas"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2913,6 +3939,12 @@
       "comment" : "Notes placeholder.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notas (opcional)…"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Notas (opcional)…"
@@ -2935,6 +3967,12 @@
             "value" : "Eliminar"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eliminar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2947,6 +3985,12 @@
       "comment" : "Delete confirmation overlay title.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eliminar suscripción"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Eliminar suscripción"
@@ -2969,6 +4013,12 @@
             "value" : "¿Seguro que quieres eliminar esta suscripción?"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Seguro que quieres eliminar esta suscripción?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2981,6 +4031,12 @@
       "comment" : "Days-until label + date-picker shortcut + widget.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hoy"
@@ -3003,6 +4059,12 @@
             "value" : "Mañana"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mañana"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3015,6 +4077,12 @@
       "comment" : "Compact days-until label. %lld = days.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "en %lld d"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "en %lld d"
@@ -3037,6 +4105,12 @@
             "value" : "Editar…"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar…"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3049,6 +4123,12 @@
       "comment" : "Calendar weekday strip, Monday-first.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LUN"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "LUN"
@@ -3071,6 +4151,12 @@
             "value" : "MAR"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MAR"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3083,6 +4169,12 @@
       "comment" : "Calendar weekday strip.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MIÉ"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "MIÉ"
@@ -3105,6 +4197,12 @@
             "value" : "JUE"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JUE"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3117,6 +4215,12 @@
       "comment" : "Calendar weekday strip.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VIE"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "VIE"
@@ -3139,6 +4243,12 @@
             "value" : "SÁB"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SÁB"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3151,6 +4261,12 @@
       "comment" : "Calendar weekday strip.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DOM"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "DOM"
@@ -3173,6 +4289,12 @@
             "value" : "Gasto del mes"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gasto del mes"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3185,6 +4307,12 @@
       "comment" : "Calendar month nav (VoiceOver + tooltip).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mes anterior"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mes anterior"
@@ -3207,6 +4335,12 @@
             "value" : "Mes siguiente"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mes siguiente"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3219,6 +4353,12 @@
       "comment" : "Empty state — calendar, list, dashboard.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aún no hay suscripciones"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aún no hay suscripciones"
@@ -3241,6 +4381,12 @@
             "value" : "o pulsa ⌘N"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "o presiona ⌘N"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3253,6 +4399,12 @@
       "comment" : "Sort menu option.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Próximo cobro"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Próximo cobro"
@@ -3275,6 +4427,12 @@
             "value" : "Nombre"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nombre"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3287,6 +4445,12 @@
       "comment" : "Sort menu option + email-parse result row.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Importe"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Importe"
@@ -3309,6 +4473,12 @@
             "value" : "Fecha de adición"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fecha en que se agregó"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3321,6 +4491,12 @@
       "comment" : "List search/filter empty state.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ninguna suscripción coincide"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ninguna suscripción coincide"
@@ -3343,6 +4519,12 @@
             "value" : "Haz clic en + para añadir la primera"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haz clic en + para agregar la primera"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3355,6 +4537,12 @@
       "comment" : "Search bar placeholder.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar suscripciones…"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Buscar suscripciones…"
@@ -3377,6 +4565,12 @@
             "value" : "Borrar búsqueda"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Borrar búsqueda"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3394,6 +4588,12 @@
             "value" : "Añade tu primera suscripción para ver aquí el gasto mensual, las tendencias y el desglose por categoría."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agrega tu primera suscripción para ver aquí el gasto mensual, las tendencias y el desglose por categoría."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3406,6 +4606,12 @@
       "comment" : "Dashboard empty-state secondary CTA.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "o importa un extracto bancario"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "o importa un extracto bancario"
@@ -3428,6 +4634,12 @@
             "value" : "al mes · %@/año"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "al mes · %@/año"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3440,6 +4652,12 @@
       "comment" : "Dashboard section title.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tendencia mensual"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tendencia mensual"
@@ -3462,6 +4680,12 @@
             "value" : "Aún no hay gastos"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aún no hay gastos"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3474,6 +4698,12 @@
       "comment" : "Dashboard section title.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Categorías"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Categorías"
@@ -3496,6 +4726,12 @@
             "value" : "No hay suscripciones activas"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay suscripciones activas"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3508,6 +4744,12 @@
       "comment" : "Dashboard section title.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las más caras"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Las más caras"
@@ -3530,6 +4772,12 @@
             "value" : "%@/mes"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@/mes"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3542,6 +4790,12 @@
       "comment" : "Email parse overlay title.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pegar correo de cobro"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pegar correo de cobro"
@@ -3564,6 +4818,12 @@
             "value" : "Pega aquí el texto de tu correo de cobro o recibo…"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pega aquí el texto de tu correo de cobro o recibo…"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3576,6 +4836,12 @@
       "comment" : "Email parse action button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analizar"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Analizar"
@@ -3598,6 +4864,12 @@
             "value" : "Ciclo"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ciclo"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3610,6 +4882,12 @@
       "comment" : "Email parse failure hint.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudieron extraer los datos de la suscripción. Prueba a pegar más texto."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "No se pudieron extraer los datos de la suscripción. Prueba a pegar más texto."
@@ -3632,6 +4910,12 @@
             "value" : "Atrás"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atrás"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3644,6 +4928,12 @@
       "comment" : "Email parse apply button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aplicar"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aplicar"
@@ -3666,6 +4956,12 @@
             "value" : "Escanear suscripción"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escanear suscripción"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3683,6 +4979,12 @@
             "value" : "Suelta una imagen aquí o pulsa ⌘V para pegarla"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suelta una imagen aquí o presiona ⌘V para pegarla"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3695,6 +4997,12 @@
       "comment" : "Divider between drop zone and file picker.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "o"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "o"
@@ -3717,6 +5025,12 @@
             "value" : "Elegir archivo de imagen"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elegir archivo de imagen"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3734,6 +5048,12 @@
             "value" : "Consejo: haz una captura de un correo de cobro y pulsa ⌘V aquí"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Consejo: haz una captura de un correo de cobro y presiona ⌘V aquí"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3746,6 +5066,12 @@
       "comment" : "OCR progress label.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reconociendo texto…"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reconociendo texto…"
@@ -3768,6 +5094,12 @@
             "value" : "No hay ninguna imagen en el portapapeles.\nPrimero copia una captura de pantalla (⌘⇧4)."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay ninguna imagen en el portapapeles.\nPrimero copia una captura de pantalla (⌘⇧4)."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3780,6 +5112,12 @@
       "comment" : "Image open-panel message.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selecciona una captura o un recibo de una suscripción"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selecciona una captura o un recibo de una suscripción"
@@ -3802,6 +5140,12 @@
             "value" : "No se encontró texto en la imagen.\nPrueba con una captura más nítida."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se encontró texto en la imagen.\nPrueba con una captura más nítida."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3814,6 +5158,12 @@
       "comment" : "OCR low-confidence error.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La calidad de la imagen es demasiado baja.\nPrueba con una captura de mayor resolución."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "La calidad de la imagen es demasiado baja.\nPrueba con una captura de mayor resolución."
@@ -3836,6 +5186,12 @@
             "value" : "Se encontraron %lld suscripciones"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se encontraron %lld suscripciones"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3848,6 +5204,12 @@
       "comment" : "OCR partial-parse summary.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se reconocieron datos parciales"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se reconocieron datos parciales"
@@ -3870,6 +5232,12 @@
             "value" : "Encontrado: %@"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Encontrado: %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3882,6 +5250,12 @@
       "comment" : "Bank import header (format picker / error stages).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Importar extracto bancario"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Importar extracto bancario"
@@ -3904,6 +5278,12 @@
             "value" : "Buscando suscripciones…"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscando suscripciones…"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3916,6 +5296,12 @@
       "comment" : "Bank import header (review stage).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revisa las suscripciones detectadas"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Revisa las suscripciones detectadas"
@@ -3938,6 +5324,12 @@
             "value" : "Elige el origen de tu extracto"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige el origen de tu extracto"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3950,6 +5342,12 @@
       "comment" : "Bank import privacy note.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todo se procesa en local. Ningún archivo sale de tu Mac."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Todo se procesa en local. Ningún archivo sale de tu Mac."
@@ -3972,6 +5370,12 @@
             "value" : "Suelta aquí tu CSV de %@"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suelta aquí tu CSV de %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3984,6 +5388,12 @@
       "comment" : "CSV file picker button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elegir archivo CSV"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elegir archivo CSV"
@@ -4006,6 +5416,12 @@
             "value" : "Buscando cobros periódicos…"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscando cobros periódicos…"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4018,6 +5434,12 @@
       "comment" : "Bank import error action.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elegir otro formato"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elegir otro formato"
@@ -4040,6 +5462,12 @@
             "value" : "Selecciona un archivo CSV de extracto"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selecciona un archivo CSV de extracto"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4052,6 +5480,12 @@
       "comment" : "CSV no-recurring error. %lld = transaction count.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se encontraron %lld transacciones, pero ningún cobro periódico. Asegúrate de que el CSV abarque al menos 2 meses."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se encontraron %lld transacciones, pero ningún cobro periódico. Asegúrate de que el CSV abarque al menos 2 meses."
@@ -4074,6 +5508,12 @@
             "value" : "CSV genérico"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CSV genérico"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4086,6 +5526,12 @@
       "comment" : "Generic CSV format subtitle.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chase · Amex · Revolut · cualquier extracto con columnas Date / Description / Amount"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chase · Amex · Revolut · cualquier extracto con columnas Date / Description / Amount"
@@ -4108,6 +5554,12 @@
             "value" : "No se encontró la columna “%@” en el CSV."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se encontró la columna “%@” en el CSV."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4120,6 +5572,12 @@
       "comment" : "Statement parse error.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El CSV no tiene filas de datos."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "El CSV no tiene filas de datos."
@@ -4142,6 +5600,12 @@
             "value" : "No se pudieron detectar las columnas automáticamente. Prueba la opción específica del formato o elige otro CSV."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudieron detectar las columnas automáticamente. Prueba la opción específica del formato o elige otro CSV."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4154,6 +5618,12 @@
       "comment" : "CSV parse error.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El archivo está vacío."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "El archivo está vacío."
@@ -4176,6 +5646,12 @@
             "value" : "No se pudo decodificar el archivo como UTF-8."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo decodificar el archivo como UTF-8."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4188,6 +5664,12 @@
       "comment" : "Import review summary, singular.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se encontró 1 posible suscripción"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se encontró 1 posible suscripción"
@@ -4210,6 +5692,12 @@
             "value" : "Se encontraron %lld posibles suscripciones"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se encontraron %lld posibles suscripciones"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4222,6 +5710,12 @@
       "comment" : "Import review select toggle.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar todas"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seleccionar todas"
@@ -4244,6 +5738,12 @@
             "value" : "Deseleccionar todas"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deseleccionar todas"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4256,6 +5756,12 @@
       "comment" : "Import review low-confidence toggle.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocultar coincidencias de baja confianza"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ocultar coincidencias de baja confianza"
@@ -4278,6 +5784,12 @@
             "value" : "Mostrar 1 coincidencia de baja confianza"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar 1 coincidencia de baja confianza"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4290,6 +5802,12 @@
       "comment" : "Import review low-confidence toggle, plural.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar %lld coincidencias de baja confianza"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mostrar %lld coincidencias de baja confianza"
@@ -4312,6 +5830,12 @@
             "value" : "Añadir 1 suscripción"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar 1 suscripción"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4327,6 +5851,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Añadir %lld suscripciones"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar %lld suscripciones"
           }
         },
         "zh-Hans" : {
@@ -4346,6 +5876,12 @@
             "value" : "Añadir suscripciones"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar suscripciones"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4358,6 +5894,12 @@
       "comment" : "Import review row subtitle for duplicates.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ya está en tu lista"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ya está en tu lista"
@@ -4380,6 +5922,12 @@
             "value" : "De una captura · se renueva el %@"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De una captura · se renueva el %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4392,6 +5940,12 @@
       "comment" : "Import review row subtitle (CSV). Args: count, date.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld cobros · el último, %@"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld cobros · el último, %@"
@@ -4414,6 +5968,12 @@
             "value" : "Alta"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alta"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4426,6 +5986,12 @@
       "comment" : "Import review confidence badge.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Media"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Media"
@@ -4448,6 +6014,12 @@
             "value" : "Baja"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baja"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4460,6 +6032,12 @@
       "comment" : "Import window scene title.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Importar suscripciones"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Importar suscripciones"
@@ -4482,6 +6060,12 @@
             "value" : "No hay nada que importar ahora mismo."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay nada que importar ahora mismo."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4494,6 +6078,12 @@
       "comment" : "Restore overlay title.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurar copia de seguridad"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restaurar copia de seguridad"
@@ -4516,6 +6106,12 @@
             "value" : "Copias de seguridad disponibles, de la más reciente a la más antigua:"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copias de seguridad disponibles, de la más reciente a la más antigua:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4528,6 +6124,12 @@
       "comment" : "Restore row button + confirm destructive button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurar"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restaurar"
@@ -4550,6 +6152,12 @@
             "value" : "¿Restaurar esta copia de seguridad?"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Restaurar esta copia de seguridad?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4562,6 +6170,12 @@
       "comment" : "Restore confirm body. Args: current count, backup count.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se reemplazarán tus %lld suscripciones actuales por las %lld de esta copia. Tus datos actuales se guardarán automáticamente como una nueva copia de seguridad local."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se reemplazarán tus %lld suscripciones actuales por las %lld de esta copia. Tus datos actuales se guardarán automáticamente como una nueva copia de seguridad local."
@@ -4584,6 +6198,12 @@
             "value" : "No se encontraron copias de seguridad"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se encontraron copias de seguridad"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4596,6 +6216,12 @@
       "comment" : "Restore empty state body.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las copias de seguridad locales se crean automáticamente al guardar suscripciones. Las copias en iCloud requieren tener activada la sincronización con iCloud."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Las copias de seguridad locales se crean automáticamente al guardar suscripciones. Las copias en iCloud requieren tener activada la sincronización con iCloud."
@@ -4618,6 +6244,12 @@
             "value" : "1 suscripción"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 suscripción"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4630,6 +6262,12 @@
       "comment" : "Backup detail line piece / success-banner names part, plural.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld suscripciones"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld suscripciones"
@@ -4652,6 +6290,12 @@
             "value" : "incluye ajustes"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "incluye configuración"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4664,6 +6308,12 @@
       "comment" : "Backup detail line piece.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "incluye registro de cambios"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "incluye registro de cambios"
@@ -4686,6 +6336,12 @@
             "value" : "No se pudo leer esta copia de seguridad. Prueba con otro origen."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo leer esta copia de seguridad. Prueba con otro origen."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4698,6 +6354,12 @@
       "comment" : "Restore success banner, singular. %@ = source label.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se restauró 1 suscripción desde %@."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se restauró 1 suscripción desde %@."
@@ -4720,6 +6382,12 @@
             "value" : "Se restauraron %lld suscripciones desde %@."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se restauraron %lld suscripciones desde %@."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4732,6 +6400,12 @@
       "comment" : "Restore source label. %@ = relative time.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copia local · %@"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Copia local · %@"
@@ -4754,6 +6428,12 @@
             "value" : "iCloud · 1 suscripción"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iCloud · 1 suscripción"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4766,6 +6446,12 @@
       "comment" : "Restore source label, plural.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iCloud · %lld suscripciones"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "iCloud · %lld suscripciones"
@@ -4788,6 +6474,12 @@
             "value" : "Datos antiguos (v1.6.x) · 1 suscripción"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datos antiguos (v1.6.x) · 1 suscripción"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4800,6 +6492,12 @@
       "comment" : "Restore source label, plural.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datos antiguos (v1.6.x) · %lld suscripciones"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Datos antiguos (v1.6.x) · %lld suscripciones"
@@ -4822,6 +6520,12 @@
             "value" : "ahora mismo"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ahora mismo"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4834,6 +6538,12 @@
       "comment" : "Relative time piece. %lld = minutes.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hace %lld min"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "hace %lld min"
@@ -4856,6 +6566,12 @@
             "value" : "hace %lld h"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hace %lld h"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4868,6 +6584,12 @@
       "comment" : "iCloud onboarding title.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sincroniza tus suscripciones entre tus Mac"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sincroniza tus suscripciones entre tus Mac"
@@ -4890,6 +6612,12 @@
             "value" : "Recomendado por seguridad: Suber puede guardar una copia remota desde la que restaurar tus datos."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recomendado por seguridad: Suber puede guardar una copia remota desde la que restaurar tus datos."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4905,6 +6633,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Siempre sincronizado en todos tus Mac"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siempre sincronizado en todas tus Mac"
           }
         },
         "zh-Hans" : {
@@ -4924,6 +6658,12 @@
             "value" : "Añade una suscripción en un Mac y aparecerá en los demás en segundos."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agrega una suscripción en una Mac y aparecerá en las demás en segundos."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4936,6 +6676,12 @@
       "comment" : "iCloud onboarding bullet title.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recuperación si algo falla"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Recuperación si algo falla"
@@ -4958,6 +6704,12 @@
             "value" : "Si algún día un error borra los datos locales, tu copia en iCloud los recupera."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si algún día un error borra los datos locales, tu copia en iCloud los recupera."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4970,6 +6722,12 @@
       "comment" : "iCloud onboarding bullet title.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gratis, privado y solo en tu cuenta"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gratis, privado y solo en tu cuenta"
@@ -4992,6 +6750,12 @@
             "value" : "Usa el almacenamiento clave-valor de iCloud. Apple se encarga de sincronizarlo y los servidores de Suber no ven nada."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usa el almacenamiento clave-valor de iCloud. Apple se encarga de sincronizarlo y los servidores de Suber no ven nada."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5009,6 +6773,12 @@
             "value" : "Puedes cambiarlo cuando quieras en Ajustes → Sincronización con iCloud."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puedes cambiarlo cuando quieras en Configuración → Sincronización con iCloud."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5021,6 +6791,12 @@
       "comment" : "iCloud onboarding skip button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Omitir, lo decidiré más tarde"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Omitir, lo decidiré más tarde"
@@ -5043,6 +6819,12 @@
             "value" : "Activar sincronización con iCloud"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activar sincronización con iCloud"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5055,6 +6837,12 @@
       "comment" : "Changes window filter-bar summary, singular.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 cambio por revisar"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 cambio por revisar"
@@ -5077,6 +6865,12 @@
             "value" : "%lld cambios por revisar"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld cambios por revisar"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5089,6 +6883,12 @@
       "comment" : "Changes window full-history summary.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld cambios en total"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld cambios en total"
@@ -5111,6 +6911,12 @@
             "value" : "%@ cambió de precio"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ cambió de precio"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5123,6 +6929,12 @@
       "comment" : "Price-rise headline. Args: service, new price.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ subió a %@"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ subió a %@"
@@ -5145,6 +6957,12 @@
             "value" : "%@ bajó a %@"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ bajó a %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5157,6 +6975,12 @@
       "comment" : "Price-change support line. Args: old price, percent, annual impact.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "antes %@ · %@ · %@"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "antes %@ · %@ · %@"
@@ -5179,6 +7003,12 @@
             "value" : "+%@%lld/año"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%@%lld/año"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5191,6 +7021,12 @@
       "comment" : "Annual impact, decrease. Args: currency symbol, amount.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "-%@%lld/año"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "-%@%lld/año"
@@ -5213,6 +7049,12 @@
             "value" : "Servicio desconocido"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Servicio desconocido"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5225,6 +7067,12 @@
       "comment" : "New-charge headline. %@ = service.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nueva suscripción: %@"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nueva suscripción: %@"
@@ -5247,6 +7095,12 @@
             "value" : "%@ · detectado mediante %@"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ · detectado mediante %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5259,6 +7113,12 @@
       "comment" : "Change source label.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "importación CSV"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "importación CSV"
@@ -5281,6 +7141,12 @@
             "value" : "captura de pantalla"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "captura de pantalla"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5293,6 +7159,12 @@
       "comment" : "Trial-expiring headline. %@ = service.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La prueba de %@ termina pronto"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "La prueba de %@ termina pronto"
@@ -5315,6 +7187,12 @@
             "value" : "La prueba termina pronto"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La prueba termina pronto"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5327,6 +7205,12 @@
       "comment" : "Cancellation-confirmed log line. %@ = service.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "✓ Cancelada: %@"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "✓ Cancelada: %@"
@@ -5349,6 +7233,12 @@
             "value" : "✓ Cancelada: %@ · ahorro de %@/año"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "✓ Cancelada: %@ · ahorro de %@/año"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5361,6 +7251,12 @@
       "comment" : "Cancellation-failed headline / notification. %@ = service.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ no se canceló y sigue cobrando"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ no se canceló y sigue cobrando"
@@ -5383,6 +7279,12 @@
             "value" : "Se detectó un cobro después del plazo de cancelación"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se detectó un cobro después del plazo de cancelación"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5395,6 +7297,12 @@
       "comment" : "Pending-cancel detail banner, singular. %@ = date.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vence el %@ · queda 1 día"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vence el %@ · queda 1 día"
@@ -5417,6 +7325,12 @@
             "value" : "Vence el %@ · quedan %lld días"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vence el %@ · quedan %lld días"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5429,6 +7343,12 @@
       "comment" : "Success banner without savings. %@ = services phrase.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@: cancelación confirmada."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@: cancelación confirmada."
@@ -5451,6 +7371,12 @@
             "value" : "%@: cancelación confirmada. Ahorrarás $%lld/año."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@: cancelación confirmada. Ahorrarás $%lld/año."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5463,6 +7389,12 @@
       "comment" : "Two-service phrase.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "✓ %@ y %@"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "✓ %@ y %@"
@@ -5485,6 +7417,12 @@
             "value" : "✓ %@, %@ y %@"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "✓ %@, %@ y %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5497,6 +7435,12 @@
       "comment" : "4+ services phrase.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "✓ %lld suscripciones"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "✓ %lld suscripciones"
@@ -5519,6 +7463,12 @@
             "value" : "%@ y %@"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ y %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5531,6 +7481,12 @@
       "comment" : "Three-item list (VoiceOver phrase).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@, %@ y %@"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@, %@ y %@"
@@ -5553,6 +7509,12 @@
             "value" : "%@: cancelación confirmada. Botón, cerrar."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@: cancelación confirmada. Botón, cerrar."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5565,6 +7527,12 @@
       "comment" : "Success banner VoiceOver label with savings.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@: cancelación confirmada. Ahorrarás %lld dólares al año. Botón, cerrar."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@: cancelación confirmada. Ahorrarás %lld dólares al año. Botón, cerrar."
@@ -5587,6 +7555,12 @@
             "value" : "cambios nuevos %@"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cambios nuevos %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5599,6 +7573,12 @@
       "comment" : "Away banner time suffix.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "desde ayer"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "desde ayer"
@@ -5621,6 +7601,12 @@
             "value" : "desde la semana pasada"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "desde la semana pasada"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5633,6 +7619,12 @@
       "comment" : "Away banner time suffix.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "desde la última vez que abriste Suber"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "desde la última vez que abriste Suber"
@@ -5655,6 +7647,12 @@
             "value" : "%lld cambios nuevos %@. Botón, Revisar."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld cambios nuevos %@. Botón, Revisar."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5667,6 +7665,12 @@
       "comment" : "First-catch banner VoiceOver label.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suber detectó tu primer cambio. Haz clic en una fila para revisarlo. Botón, cerrar."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suber detectó tu primer cambio. Haz clic en una fila para revisarlo. Botón, cerrar."
@@ -5689,6 +7693,12 @@
             "value" : "Conectado · 1 cuenta"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectado · 1 cuenta"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5701,6 +7711,12 @@
       "comment" : "IMAP test success, plural.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectado · %lld cuentas"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Conectado · %lld cuentas"
@@ -5723,6 +7739,12 @@
             "value" : "Copiar diagnóstico"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copiar diagnóstico"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5735,6 +7757,12 @@
       "comment" : "IMAP auth failure with raw server detail.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error de autenticación. El servidor respondió: %@"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Error de autenticación. El servidor respondió: %@"
@@ -5757,6 +7785,12 @@
             "value" : "Error de autenticación. %@\n\nEl servidor respondió: %@"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error de autenticación. %@\n\nEl servidor respondió: %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5774,6 +7808,12 @@
             "value" : "Se agotó el tiempo de conexión. Revisa el servidor y el puerto (o la configuración de proxy o VPN de este Mac: Clash, Stash y similares suelen interceptar los dominios imap.*)."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se agotó el tiempo de conexión. Revisa el servidor y el puerto (o la configuración de proxy o VPN de esta Mac: Clash, Stash y similares suelen interceptar los dominios imap.*)."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5786,6 +7826,12 @@
       "comment" : "IMAP friendly hint. %@ = provider name.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Probablemente escribiste la contraseña de tu cuenta. %@ necesita una contraseña de aplicación (sigue los pasos numerados bajo el campo de contraseña)."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Probablemente escribiste la contraseña de tu cuenta. %@ necesita una contraseña de aplicación (sigue los pasos numerados bajo el campo de contraseña)."
@@ -5808,6 +7854,12 @@
             "value" : "Microsoft desactivó la autenticación básica para esta cuenta. Debes usar una contraseña de aplicación (Outlook → Seguridad → Opciones avanzadas → Contraseñas de aplicación)."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Microsoft desactivó la autenticación básica para esta cuenta. Debes usar una contraseña de aplicación (Outlook → Seguridad → Opciones avanzadas → Contraseñas de aplicación)."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5820,6 +7872,12 @@
       "comment" : "IMAP friendly hint (IMAP disabled).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IMAP está desactivado en esta cuenta. En Gmail: actívalo en mail.google.com → Configuración → Reenvío y correo POP/IMAP. En Workspace: pide a tu administrador que lo active en la Consola de administración."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "IMAP está desactivado en esta cuenta. En Gmail: actívalo en mail.google.com → Configuración → Reenvío y correo POP/IMAP. En Workspace: pide a tu administrador que lo active en la Consola de administración."
@@ -5842,6 +7900,12 @@
             "value" : "Gmail cree que esta cuenta necesita una comprobación de seguridad. Abre mail.google.com en un navegador, inicia sesión y vuelve a intentarlo aquí."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gmail cree que esta cuenta necesita una comprobación de seguridad. Abre mail.google.com en un navegador, inicia sesión y vuelve a intentarlo aquí."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5854,6 +7918,12 @@
       "comment" : "IMAP friendly hint (LOGINDISABLED).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El inicio de sesión IMAP está desactivado para esta cuenta. Actívalo en la configuración web de tu proveedor o consulta a tu administrador."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "El inicio de sesión IMAP está desactivado para esta cuenta. Actívalo en la configuración web de tu proveedor o consulta a tu administrador."
@@ -5876,6 +7946,12 @@
             "value" : "Otro (IMAP)"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otro (IMAP)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5888,6 +7964,12 @@
       "comment" : "Gmail quick link button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activar IMAP"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Activar IMAP"
@@ -5910,6 +7992,12 @@
             "value" : "Crear contraseña de aplicación"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crear contraseña de aplicación"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5922,6 +8010,12 @@
       "comment" : "iCloud quick link button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuenta de Apple: inicio de sesión y seguridad"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cuenta de Apple: inicio de sesión y seguridad"
@@ -5944,6 +8038,12 @@
             "value" : "Seguridad de la cuenta Microsoft"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seguridad de la cuenta Microsoft"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5956,6 +8056,12 @@
       "comment" : "Yahoo quick link button.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seguridad de la cuenta de Yahoo"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seguridad de la cuenta de Yahoo"
@@ -5978,6 +8084,12 @@
             "value" : "Contraseñas de aplicación de Fastmail"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contraseñas de aplicación de Fastmail"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5995,6 +8107,12 @@
             "value" : "Gmail (@gmail.com / Google Workspace) requiere:\n1. Activa IMAP en mail.google.com → Configuración ⚙ → Ver todos los ajustes → Reenvío y correo POP/IMAP → Acceso IMAP: Habilitar IMAP\n2. Activa la verificación en dos pasos en myaccount.google.com → Seguridad\n3. Crea una contraseña de aplicación en myaccount.google.com/apppasswords (elige “Correo”)\n4. Pega aquí la contraseña de aplicación de 16 caracteres, NO tu contraseña de Gmail\n\nGoogle Workspace: puede que tu administrador haya desactivado IMAP en toda la organización. Pídele que lo active en la Consola de administración."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gmail (@gmail.com / Google Workspace) requiere:\n1. Activa IMAP en mail.google.com → Configuración ⚙ → Ver toda la configuración → Reenvío y correo POP/IMAP → Acceso IMAP: Habilitar IMAP\n2. Activa la verificación en dos pasos en myaccount.google.com → Seguridad\n3. Crea una contraseña de aplicación en myaccount.google.com/apppasswords (elige “Correo”)\n4. Pega aquí la contraseña de aplicación de 16 caracteres, NO tu contraseña de Gmail\n\nGoogle Workspace: puede que tu administrador haya desactivado IMAP en toda la organización. Pídele que lo active en la Consola de administración."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6007,6 +8125,12 @@
       "comment" : "iCloud multi-step setup hint.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iCloud (@icloud.com / @me.com / @mac.com) requiere:\n1. Activa la autenticación de doble factor en appleid.apple.com → Inicio de sesión y seguridad\n2. Genera una contraseña específica para apps en Inicio de sesión y seguridad → Contraseñas específicas para apps\n3. Usa aquí esa contraseña específica para apps, NO la contraseña de tu cuenta de Apple"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "iCloud (@icloud.com / @me.com / @mac.com) requiere:\n1. Activa la autenticación de doble factor en appleid.apple.com → Inicio de sesión y seguridad\n2. Genera una contraseña específica para apps en Inicio de sesión y seguridad → Contraseñas específicas para apps\n3. Usa aquí esa contraseña específica para apps, NO la contraseña de tu cuenta de Apple"
@@ -6029,6 +8153,12 @@
             "value" : "Cuentas personales de Outlook (@outlook.com / @hotmail.com / @live.com):\n1. Activa la verificación en dos pasos en account.live.com → Seguridad\n2. Crea una contraseña de aplicación en Seguridad → Opciones de seguridad avanzadas\n3. Usa aquí la contraseña de aplicación de 16 caracteres, NO la contraseña de tu cuenta\n\nAlgunas cuentas antiguas tienen IMAP desactivado de forma predeterminada. Actívalo en la configuración de Outlook.com."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuentas personales de Outlook (@outlook.com / @hotmail.com / @live.com):\n1. Activa la verificación en dos pasos en account.live.com → Seguridad\n2. Crea una contraseña de aplicación en Seguridad → Opciones de seguridad avanzadas\n3. Usa aquí la contraseña de aplicación de 16 caracteres, NO la contraseña de tu cuenta\n\nAlgunas cuentas antiguas tienen IMAP desactivado de forma predeterminada. Actívalo en la configuración de Outlook.com."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6041,6 +8171,12 @@
       "comment" : "Yahoo multi-step setup hint.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yahoo:\n1. Inicia sesión en login.yahoo.com → Seguridad de la cuenta\n2. Genera una contraseña de aplicación (Correo), distinta de la contraseña de tu cuenta\n3. Usa aquí la contraseña de aplicación generada, NO tu contraseña de Yahoo\n\nYahoo hace caducar las contraseñas de aplicación muy rápido. Si la autenticación falla después de mucho tiempo sin usarla, genera una nueva."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Yahoo:\n1. Inicia sesión en login.yahoo.com → Seguridad de la cuenta\n2. Genera una contraseña de aplicación (Correo), distinta de la contraseña de tu cuenta\n3. Usa aquí la contraseña de aplicación generada, NO tu contraseña de Yahoo\n\nYahoo hace caducar las contraseñas de aplicación muy rápido. Si la autenticación falla después de mucho tiempo sin usarla, genera una nueva."
@@ -6063,6 +8199,12 @@
             "value" : "Fastmail:\n1. Configuración → Privacidad y seguridad → Contraseñas de aplicación → Nueva contraseña de aplicación\n2. Dale acceso a “Mail (IMAP)”\n3. Usa aquí la contraseña de aplicación generada, NO la contraseña de tu cuenta"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fastmail:\n1. Configuración → Privacidad y seguridad → Contraseñas de aplicación → Nueva contraseña de aplicación\n2. Dale acceso a “Mail (IMAP)”\n3. Usa aquí la contraseña de aplicación generada, NO la contraseña de tu cuenta"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6075,6 +8217,12 @@
       "comment" : "Generic IMAP setup hint.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indica el servidor IMAP (p. ej., mail.example.com) y usa una contraseña de aplicación si tu proveedor las admite."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Indica el servidor IMAP (p. ej., mail.example.com) y usa una contraseña de aplicación si tu proveedor las admite."
@@ -6097,6 +8245,12 @@
             "value" : "Se agotó el tiempo del escaneo. Se volverá a intentar en segundo plano."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se agotó el tiempo del escaneo. Se volverá a intentar en segundo plano."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6114,6 +8268,12 @@
             "value" : "Suber no puede acceder a Mail. Abre Ajustes del Sistema para permitirlo."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suber no puede acceder a Mail. Abre Configuración del Sistema para permitirlo."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6126,6 +8286,12 @@
       "comment" : "Watchdog no-accounts error.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay cuentas configuradas en Mail."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "No hay cuentas configuradas en Mail."
@@ -6148,6 +8314,12 @@
             "value" : "%lld suscripciones sincronizadas"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld suscripciones sincronizadas"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6165,6 +8337,12 @@
             "value" : "Conflicto de sincronización: otro Mac tiene %lld suscripciones y este Mac tiene %lld. Se conservaron los datos locales; usa Restaurar para revisarlos."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conflicto de sincronización: otra Mac tiene %lld suscripciones y esta Mac tiene %lld. Se conservaron los datos locales; usa Restaurar para revisarlos."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6177,6 +8355,12 @@
       "comment" : "Grouped notification title, singular.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suber encontró 1 cambio"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suber encontró 1 cambio"
@@ -6199,6 +8383,12 @@
             "value" : "Suber encontró %lld cambios"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suber encontró %lld cambios"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6211,6 +8401,12 @@
       "comment" : "Notification summary piece, singular.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 cambio de precio"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 cambio de precio"
@@ -6233,6 +8429,12 @@
             "value" : "%lld cambios de precio"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld cambios de precio"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6245,6 +8447,12 @@
       "comment" : "Notification summary piece, singular.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 suscripción nueva"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 suscripción nueva"
@@ -6267,6 +8475,12 @@
             "value" : "%lld suscripciones nuevas"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld suscripciones nuevas"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6279,6 +8493,12 @@
       "comment" : "Notification summary piece, singular.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 cargo duplicado"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 cargo duplicado"
@@ -6301,6 +8521,12 @@
             "value" : "%lld cargos duplicados"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld cargos duplicados"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6313,6 +8539,12 @@
       "comment" : "Notification fragment (2-5 changes path, legacy copy).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cargos duplicados: %lld"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "cargos duplicados: %lld"
@@ -6335,6 +8567,12 @@
             "value" : "pruebas por terminar: %lld"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "pruebas por terminar: %lld"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6347,6 +8585,12 @@
       "comment" : "Notification fragment. %@ = service name(s).",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subida de precio: %@"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Subida de precio: %@"
@@ -6369,6 +8613,12 @@
             "value" : "%@ y %@"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ y %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6381,6 +8631,12 @@
       "comment" : "Single-change notification body. Args: service, price, percent.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ subió a %@ (%@)"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ subió a %@ (%@)"
@@ -6403,6 +8659,12 @@
             "value" : "El precio cambió a %@ (%@)"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El precio cambió a %@ (%@)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6415,6 +8677,12 @@
       "comment" : "Single-change body. %@ = service.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@: nueva suscripción detectada"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@: nueva suscripción detectada"
@@ -6437,6 +8705,12 @@
             "value" : "Nueva suscripción detectada"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nueva suscripción detectada"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6449,6 +8723,12 @@
       "comment" : "Single-change body fallback.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cargo duplicado detectado"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cargo duplicado detectado"
@@ -6471,6 +8751,12 @@
             "value" : "La prueba de %@ termina pronto"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La prueba de %@ termina pronto"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6483,6 +8769,12 @@
       "comment" : "Single-change body fallback.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La prueba termina pronto"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "La prueba termina pronto"
@@ -6505,6 +8797,12 @@
             "value" : "%@: cancelación confirmada por Suber"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@: cancelación confirmada por Suber"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6517,6 +8815,12 @@
       "comment" : "Single-change body fallback.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelación confirmada"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelación confirmada"
@@ -6539,6 +8843,12 @@
             "value" : "Una cancelación no se hizo efectiva"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una cancelación no se hizo efectiva"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6551,6 +8861,12 @@
       "comment" : "Service-name fallback in notification fragments.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una suscripción"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Una suscripción"
@@ -6573,6 +8889,12 @@
             "value" : "Recordatorio de suscripción"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recordatorio de suscripción"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6585,6 +8907,12 @@
       "comment" : "Reminder body. Args: service, amount.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ te cobra hoy - %@"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ te cobra hoy - %@"
@@ -6607,6 +8935,12 @@
             "value" : "%@ te cobra mañana - %@"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ te cobra mañana - %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6619,6 +8953,12 @@
       "comment" : "Reminder body. Args: service, days, amount.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ te cobra en %lld días - %@"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ te cobra en %lld días - %@"
@@ -6641,6 +8981,12 @@
             "value" : "Mensual"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mensual"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6653,6 +8999,12 @@
       "comment" : "Billing cycle label.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anual"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anual"
@@ -6675,6 +9027,12 @@
             "value" : "Semanal"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Semanal"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6687,6 +9045,12 @@
       "comment" : "Billing cycle label.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trimestral"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trimestral"
@@ -6709,6 +9073,12 @@
             "value" : "Pago único"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pago único"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6721,6 +9091,12 @@
       "comment" : "Billing cycle short suffix.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/mes"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "/mes"
@@ -6743,6 +9119,12 @@
             "value" : "/año"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/año"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6755,6 +9137,12 @@
       "comment" : "Billing cycle short suffix.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/sem"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "/sem"
@@ -6777,6 +9165,12 @@
             "value" : "/trim"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/trim"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6789,6 +9183,12 @@
       "comment" : "Preset category display name.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Streaming"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Streaming"
@@ -6811,6 +9211,12 @@
             "value" : "Música"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Música"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6823,6 +9229,12 @@
       "comment" : "Preset category display name.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Software"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Software"
@@ -6845,6 +9257,12 @@
             "value" : "Almacenamiento en la nube"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Almacenamiento en la nube"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6857,6 +9275,12 @@
       "comment" : "Preset category display name.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Productividad"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Productividad"
@@ -6879,6 +9303,12 @@
             "value" : "IA"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IA"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6891,6 +9321,12 @@
       "comment" : "Preset category display name.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Educación"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Educación"
@@ -6913,6 +9349,12 @@
             "value" : "Noticias"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noticias"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6925,6 +9367,12 @@
       "comment" : "Preset category display name.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Videojuegos"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Videojuegos"
@@ -6947,6 +9395,12 @@
             "value" : "Fitness"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fitness"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6959,6 +9413,12 @@
       "comment" : "Preset category display name.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finanzas"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Finanzas"
@@ -6981,6 +9441,12 @@
             "value" : "Otros"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otros"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6993,6 +9459,12 @@
       "comment" : "Small widget header + widget gallery display name.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gasto mensual"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gasto mensual"
@@ -7015,6 +9487,12 @@
             "value" : "Próximos cobros"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Próximos cobros"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7027,6 +9505,12 @@
       "comment" : "Medium widget empty state.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay cobros próximos esta semana"
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "No hay cobros próximos esta semana"
@@ -7049,6 +9533,12 @@
             "value" : "%lld activas"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld activas"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7066,6 +9556,12 @@
             "value" : "Consulta el gasto mensual total de tus suscripciones."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Consulta el gasto mensual total de tus suscripciones."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7078,6 +9574,12 @@
       "comment" : "Widget gallery description.",
       "localizations" : {
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Consulta las suscripciones que se cobran en los próximos 7 días."
+          }
+        },
+        "es-419" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Consulta las suscripciones que se cobran en los próximos 7 días."
