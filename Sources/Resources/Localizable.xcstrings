@@ -1986,13 +1986,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Idioma del sistema"
+            "value" : "Del sistema"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Idioma del sistema"
+            "value" : "Del sistema"
           }
         },
         "zh-Hans" : {
@@ -2423,13 +2423,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "En pausa"
+            "value" : "Pausada"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "En pausa"
+            "value" : "Pausada"
           }
         },
         "zh-Hans" : {
@@ -4401,13 +4401,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Próximo cobro"
+            "value" : "Vencimiento"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Próximo cobro"
+            "value" : "Vencimiento"
           }
         },
         "zh-Hans" : {
@@ -4470,13 +4470,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fecha de adición"
+            "value" : "Recientes"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fecha en que se agregó"
+            "value" : "Recientes"
           }
         },
         "zh-Hans" : {

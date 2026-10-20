@@ -416,6 +416,7 @@ Matching heuristics used by `MailSubscriptionExtractor` / `MailScanKeywords`. Tr
 - Subscription statuses are feminine (they agree with `suscripción`): `Activa`, `Cancelada`, `Todas`.
 - When one key is used for both 1 and N items or services, pick wording that needs no agreement (`Subida de precio: %@`, `cargos duplicados: %lld`) rather than `(s)` suffixes.
 - Lists drop the Oxford comma: `%@, %@ y %@`.
+- Two places have almost no slack for Spanish, so prefer one-word labels there: the list header (status chips + sort menu share one row, e.g. `Pausada`, `Vencimiento`, `Recientes`) and the 140pt language picker (`Del sistema`).
 - Avoid em dashes (§13). Use a colon, comma or period instead.
 - **es vs es-419**: `es` follows Apple's Spain terminology, `es-419` (Latin America; macOS resolves es-MX, es-AR, es-US… to it) follows Apple's Latin American one. Keep them identical except where macOS itself differs: `Ajustes` → `Configuración`, `Ajustes del Sistema` → `Configuración del Sistema`, `Añadir` → `Agregar`, `pulsa` → `presiona`, and `Mac` is feminine (`esta Mac`, `todas tus Mac`). When adding a key, translate `es` first, then copy it to `es-419` and apply only those swaps.
 - The Settings → Language picker has a single "Español" entry that forces `es`; "System default" picks `es-419` automatically on Latin American systems.
